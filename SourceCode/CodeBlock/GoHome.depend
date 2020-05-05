@@ -1,0 +1,750 @@
+# depslib dependency file v1.0
+1420212242 source:d:\program files (x86)\funcode\games\gohome\sourcecode\icon.rc
+
+1420212242 source:f:\gohome\sourcecode\icon.rc
+
+1420212242 source:c:\users\asus\desktop\gohome\sourcecode\icon.rc
+
+1529557429 source:c:\users\asus\desktop\gohome\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"LessonX.h"
+	"PlayerManager.h"
+	"MapManager.h"
+	"BulletManager.h"
+
+1529472775 c:\users\asus\desktop\gohome\sourcecode\header\commonclass.h
+	<windows.h>
+	<iostream>
+
+1529390047 c:\users\asus\desktop\gohome\sourcecode\header\lessonx.h
+	"Player.h"
+	<Windows.h>
+
+1529506571 c:\users\asus\desktop\gohome\sourcecode\header\player.h
+	"CommonClass.h"
+	"PlayerState.h"
+
+1529202562 c:\users\asus\desktop\gohome\sourcecode\header\playerstate.h
+
+1529556449 c:\users\asus\desktop\gohome\sourcecode\header\playermanager.h
+	"Player.h"
+
+1529309990 source:c:\users\asus\desktop\gohome\sourcecode\src\main.cpp
+	"CommonClass.h"
+	"LessonX.h"
+	"Player.h"
+
+1529559447 source:c:\users\asus\desktop\gohome\sourcecode\src\player.cpp
+	"CommonClass.h"
+	"Player.h"
+	<iostream>
+	"BulletManager.h"
+
+1529559218 source:c:\users\asus\desktop\gohome\sourcecode\src\playermanager.cpp
+	<iostream>
+	"PlayerManager.h"
+
+1529559218 source:c:\users\asus\desktop\gohome\sourcecode\src\bullet.cpp
+	"Bullet.h"
+	"Player.h"
+
+1529470084 c:\users\asus\desktop\gohome\sourcecode\header\bullet.h
+	"CommonClass.h"
+	"Player.h"
+
+1529559218 source:c:\users\asus\desktop\gohome\sourcecode\src\bulletmanager.cpp
+	"BulletManager.h"
+	<iterator>
+
+1529559008 c:\users\asus\desktop\gohome\sourcecode\header\bulletmanager.h
+	<vector>
+	"Bullet.h"
+
+1529559259 c:\users\asus\desktop\gohome\sourcecode\header\mapmanager.h
+	"CommonClass.h"
+	"WallBlock.h"
+
+1529559261 c:\users\asus\desktop\gohome\sourcecode\header\wallblock.h
+	"CommonClass.h"
+
+1529559256 source:c:\users\asus\desktop\gohome\sourcecode\src\mapmanager.cpp
+	"MapManager.h"
+	<cstdlib>
+	"crowmap.h"
+	"WallBlock.h"
+
+1529559253 c:\users\asus\desktop\gohome\sourcecode\header\crowmap.h
+	<cstring>
+	<iostream>
+	"dungoen.h"
+
+1529411304 c:\users\asus\desktop\gohome\sourcecode\header\dungoen.h
+	<string>
+	<cstdlib>
+	<cassert>
+	<vector>
+	<ctime>
+
+1529559250 source:c:\users\asus\desktop\gohome\sourcecode\src\wallblock.cpp
+	"WallBlock.h"
+	<iostream>
+
+1529469863 source:c:\users\asus\desktop\gohome\sourcecode\src\freezebullet.cpp
+	"FreezeBullet.h"
+
+1529469848 c:\users\asus\desktop\gohome\sourcecode\header\freezebullet.h
+
+1529332178 source:c:\users\asus\desktop\gohome\sourcecode\src\treasure.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"Treasure.h"
+
+1529389786 c:\users\asus\desktop\gohome\sourcecode\header\treasure.h
+	"CommonClass.h"
+
+1529466954 source:c:\users\asus\desktop\gohome\sourcecode\src\treasuremanager.cpp
+	<vector>
+	<stdio.h>
+	"TreasureManager.h"
+
+1529405714 c:\users\asus\desktop\gohome\sourcecode\header\treasuremanager.h
+	<vector>
+	<Treasure.h>
+
+1420212242 source:c:\users\administrator\desktop\gonest\sourcecode\icon.rc
+
+1529758329 source:c:\users\administrator\desktop\gonest\sourcecode\src\bullet.cpp
+	"Bullet.h"
+	"Player.h"
+
+1529592089 c:\users\administrator\desktop\gonest\sourcecode\header\bullet.h
+	"CommonClass.h"
+	"Player.h"
+
+1529472775 c:\users\administrator\desktop\gonest\sourcecode\header\commonclass.h
+	<windows.h>
+	<iostream>
+
+1529815739 c:\users\administrator\desktop\gonest\sourcecode\header\player.h
+	"CommonClass.h"
+	"PlayerState.h"
+	"TREASURE.H"
+
+1529586782 c:\users\administrator\desktop\gonest\sourcecode\header\playerstate.h
+
+1529752146 source:c:\users\administrator\desktop\gonest\sourcecode\src\bulletmanager.cpp
+	"BulletManager.h"
+	<iterator>
+
+1529559008 c:\users\administrator\desktop\gonest\sourcecode\header\bulletmanager.h
+	<vector>
+	"Bullet.h"
+
+1529469863 source:c:\users\administrator\desktop\gonest\sourcecode\src\freezebullet.cpp
+	"FreezeBullet.h"
+
+1529469848 c:\users\administrator\desktop\gonest\sourcecode\header\freezebullet.h
+
+1529847173 source:c:\users\administrator\desktop\gonest\sourcecode\src\main.cpp
+	"CommonClass.h"
+	"LessonX.h"
+	"Player.h"
+	<windows.h>
+
+1529842776 c:\users\administrator\desktop\gonest\sourcecode\header\lessonx.h
+	"Player.h"
+	<Windows.h>
+	"Treasure.h"
+	"TreasureManager.h"
+	"PlayerManager.h"
+	"Player.h"
+
+1529850127 source:c:\users\administrator\desktop\gonest\sourcecode\src\mapmanager.cpp
+	"MapManager.h"
+	"Position.h"
+	"crowmap.h"
+	<cmath>
+	"PlayerManager.h"
+
+1529834757 c:\users\administrator\desktop\gonest\sourcecode\header\mapmanager.h
+	"CommonClass.h"
+	"WallBlock.h"
+	<cstdlib>
+	<ctime>
+	"Position.h"
+
+1529929944 c:\users\administrator\desktop\gonest\sourcecode\header\wallblock.h
+	"CommonClass.h"
+
+1529931845 c:\users\administrator\desktop\gonest\sourcecode\header\crowmap.h
+	<cstring>
+	"dungoen.h"
+
+1529411304 c:\users\administrator\desktop\gonest\sourcecode\header\dungoen.h
+	<string>
+	<cstdlib>
+	<cassert>
+	<vector>
+	<ctime>
+
+1529843412 source:c:\users\administrator\desktop\gonest\sourcecode\src\player.cpp
+	"CommonClass.h"
+	"Player.h"
+	"BulletManager.h"
+	"cmath"
+	"LessonX.h"
+
+1529836408 source:c:\users\administrator\desktop\gonest\sourcecode\src\playermanager.cpp
+	<iostream>
+	"PlayerManager.h"
+
+1529836222 c:\users\administrator\desktop\gonest\sourcecode\header\playermanager.h
+	"Player.h"
+	"MapManager.h"
+	"CommonClass.h"
+
+1529332178 source:c:\users\administrator\desktop\gonest\sourcecode\src\treasure.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"Treasure.h"
+
+1529569754 c:\users\administrator\desktop\gonest\sourcecode\header\treasure.h
+	"CommonClass.h"
+
+1529843177 source:c:\users\administrator\desktop\gonest\sourcecode\src\treasuremanager.cpp
+	<vector>
+	<stdio.h>
+	"TreasureManager.h"
+	"LessonX.h"
+	<cstdlib>
+	<ctime>
+	"MapManager.h"
+
+1529843279 c:\users\administrator\desktop\gonest\sourcecode\header\treasuremanager.h
+	<vector>
+	<Treasure.h>
+
+1529930053 source:c:\users\administrator\desktop\gonest\sourcecode\src\wallblock.cpp
+	"WallBlock.h"
+	<iostream>
+
+1529850998 source:c:\users\administrator\desktop\gonest\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"LessonX.h"
+	"PlayerManager.h"
+	"MapManager.h"
+	"BulletManager.h"
+	"GameSetter.h"
+
+1420212242 source:c:\users\asus\desktop\gonest\sourcecode\icon.rc
+
+1529592089 source:c:\users\asus\desktop\gonest\sourcecode\src\bullet.cpp
+	"Bullet.h"
+	"Player.h"
+
+1529592089 c:\users\asus\desktop\gonest\sourcecode\header\bullet.h
+	"CommonClass.h"
+	"Player.h"
+
+1529472775 c:\users\asus\desktop\gonest\sourcecode\header\commonclass.h
+	<windows.h>
+	<iostream>
+
+1529736741 c:\users\asus\desktop\gonest\sourcecode\header\player.h
+	"CommonClass.h"
+	"PlayerState.h"
+	"TREASURE.H"
+
+1529586782 c:\users\asus\desktop\gonest\sourcecode\header\playerstate.h
+
+1529569754 c:\users\asus\desktop\gonest\sourcecode\header\treasure.h
+	"CommonClass.h"
+
+1529639119 source:c:\users\asus\desktop\gonest\sourcecode\src\bulletmanager.cpp
+	"BulletManager.h"
+	<iterator>
+
+1529559008 c:\users\asus\desktop\gonest\sourcecode\header\bulletmanager.h
+	<vector>
+	"Bullet.h"
+
+1529469863 source:c:\users\asus\desktop\gonest\sourcecode\src\freezebullet.cpp
+	"FreezeBullet.h"
+
+1529469848 c:\users\asus\desktop\gonest\sourcecode\header\freezebullet.h
+
+1529736741 source:c:\users\asus\desktop\gonest\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"LessonX.h"
+	"PlayerManager.h"
+	"MapManager.h"
+	"BulletManager.h"
+	"GameSetter.h"
+
+1529664593 c:\users\asus\desktop\gonest\sourcecode\header\lessonx.h
+	"Player.h"
+	<Windows.h>
+	"Treasure.h"
+	"TreasureManager.h"
+	"PlayerManager.h"
+	"Player.h"
+
+1529574342 c:\users\asus\desktop\gonest\sourcecode\header\treasuremanager.h
+	<vector>
+	<Treasure.h>
+
+1529736741 c:\users\asus\desktop\gonest\sourcecode\header\playermanager.h
+	"Player.h"
+	"MapManager.h"
+
+1529727897 c:\users\asus\desktop\gonest\sourcecode\header\mapmanager.h
+	"CommonClass.h"
+	"WallBlock.h"
+	<cstdlib>
+	<ctime>
+	"Position.h"
+
+1529559261 c:\users\asus\desktop\gonest\sourcecode\header\wallblock.h
+	"CommonClass.h"
+
+1529736819 source:c:\users\asus\desktop\gonest\sourcecode\src\main.cpp
+	"CommonClass.h"
+	"LessonX.h"
+	"Player.h"
+
+1529728831 source:c:\users\asus\desktop\gonest\sourcecode\src\mapmanager.cpp
+	"MapManager.h"
+	"Position.h"
+	"crowmap.h"
+
+1529722990 c:\users\asus\desktop\gonest\sourcecode\header\crowmap.h
+	<cstring>
+	"dungoen.h"
+
+1529411304 c:\users\asus\desktop\gonest\sourcecode\header\dungoen.h
+	<string>
+	<cstdlib>
+	<cassert>
+	<vector>
+	<ctime>
+
+1529332178 source:c:\users\asus\desktop\gonest\sourcecode\src\treasure.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"Treasure.h"
+
+1529733711 source:c:\users\asus\desktop\gonest\sourcecode\src\treasuremanager.cpp
+	<vector>
+	<stdio.h>
+	"TreasureManager.h"
+
+1529721007 source:c:\users\asus\desktop\gonest\sourcecode\src\wallblock.cpp
+	"WallBlock.h"
+	<iostream>
+
+1529736741 source:c:\users\asus\desktop\gonest\sourcecode\src\player.cpp
+	"CommonClass.h"
+	"Player.h"
+	<iostream>
+	"BulletManager.h"
+	"cmath"
+
+1529736741 source:c:\users\asus\desktop\gonest\sourcecode\src\playermanager.cpp
+	<iostream>
+	"PlayerManager.h"
+
+1420212242 source:c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\icon.rc
+
+1529592089 source:c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\src\bullet.cpp
+	"Bullet.h"
+	"Player.h"
+
+1529592089 c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\header\bullet.h
+	"CommonClass.h"
+	"Player.h"
+
+1529472775 c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\header\commonclass.h
+	<windows.h>
+	<iostream>
+
+1529635482 c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\header\player.h
+	"CommonClass.h"
+	"PlayerState.h"
+	"TREASURE.H"
+
+1529586782 c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\header\playerstate.h
+
+1529569754 c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\header\treasure.h
+	"CommonClass.h"
+
+1529639119 source:c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\src\bulletmanager.cpp
+	"BulletManager.h"
+	<iterator>
+
+1529559008 c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\header\bulletmanager.h
+	<vector>
+	"Bullet.h"
+
+1529469863 source:c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\src\freezebullet.cpp
+	"FreezeBullet.h"
+
+1529469848 c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\header\freezebullet.h
+
+1529667342 source:c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"LessonX.h"
+	"PlayerManager.h"
+	"MapManager.h"
+	"BulletManager.h"
+
+1529664593 c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\header\lessonx.h
+	"Player.h"
+	<Windows.h>
+	"Treasure.h"
+	"TreasureManager.h"
+	"PlayerManager.h"
+	"Player.h"
+
+1529574342 c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\header\treasuremanager.h
+	<vector>
+	<Treasure.h>
+
+1529636692 c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\header\playermanager.h
+	"Player.h"
+
+1529665236 c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\header\mapmanager.h
+	"CommonClass.h"
+	"WallBlock.h"
+	<cstdlib>
+	<ctime>
+
+1529559261 c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\header\wallblock.h
+	"CommonClass.h"
+
+1529309990 source:c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\src\main.cpp
+	"CommonClass.h"
+	"LessonX.h"
+	"Player.h"
+
+1529664971 source:c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\src\player.cpp
+	"CommonClass.h"
+	"Player.h"
+	<iostream>
+	"BulletManager.h"
+
+1529667342 source:c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\src\playermanager.cpp
+	<iostream>
+	"PlayerManager.h"
+
+1529332178 source:c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\src\treasure.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"Treasure.h"
+
+1529667595 source:c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\src\treasuremanager.cpp
+	<vector>
+	<stdio.h>
+	"TreasureManager.h"
+
+1529559250 source:c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\src\wallblock.cpp
+	"WallBlock.h"
+	<iostream>
+
+1529667548 source:c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\src\mapmanager.cpp
+	"MapManager.h"
+	<cstdlib>
+	"crowmap.h"
+	"WallBlock.h"
+
+1529666986 c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\header\crowmap.h
+	<cstring>
+	<iostream>
+	"dungoen.h"
+
+1529411304 c:\users\administrator\desktop\’‘”¿Ω‹∞Ê\gonest\sourcecode\header\dungoen.h
+	<string>
+	<cstdlib>
+	<cassert>
+	<vector>
+	<ctime>
+
+1420212242 source:d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\icon.rc
+
+1529592089 source:d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\src\bullet.cpp
+	"Bullet.h"
+	"Player.h"
+
+1529592089 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\bullet.h
+	"CommonClass.h"
+	"Player.h"
+
+1529472775 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\commonclass.h
+	<windows.h>
+	<iostream>
+
+1529726857 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\player.h
+	"CommonClass.h"
+	"PlayerState.h"
+	"TREASURE.H"
+
+1529586782 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\playerstate.h
+
+1529569754 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\treasure.h
+	"CommonClass.h"
+
+1529639119 source:d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\src\bulletmanager.cpp
+	"BulletManager.h"
+	<iterator>
+
+1529559008 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\bulletmanager.h
+	<vector>
+	"Bullet.h"
+
+1529469863 source:d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\src\freezebullet.cpp
+	"FreezeBullet.h"
+
+1529469848 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\freezebullet.h
+
+1529729464 source:d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"LessonX.h"
+	"PlayerManager.h"
+	"MapManager.h"
+	"BulletManager.h"
+	"GameSetter.h"
+
+1529664593 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\lessonx.h
+	"Player.h"
+	<Windows.h>
+	"Treasure.h"
+	"TreasureManager.h"
+	"PlayerManager.h"
+	"Player.h"
+
+1529574342 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\treasuremanager.h
+	<vector>
+	<Treasure.h>
+
+1529730261 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\playermanager.h
+	"Player.h"
+	"MapManager.h"
+
+1529729514 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\mapmanager.h
+	"CommonClass.h"
+	"WallBlock.h"
+	<cstdlib>
+	<ctime>
+	"Position.h"
+
+1529559261 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\wallblock.h
+	"CommonClass.h"
+
+1529309990 source:d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\src\main.cpp
+	"CommonClass.h"
+	"LessonX.h"
+	"Player.h"
+
+1529728831 source:d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\src\mapmanager.cpp
+	"MapManager.h"
+	"Position.h"
+	"crowmap.h"
+
+1529722990 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\crowmap.h
+	<cstring>
+	"dungoen.h"
+
+1529411304 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\dungoen.h
+	<string>
+	<cstdlib>
+	<cassert>
+	<vector>
+	<ctime>
+
+1529730261 source:d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\src\playermanager.cpp
+	<iostream>
+	"PlayerManager.h"
+
+1529332178 source:d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\src\treasure.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"Treasure.h"
+
+1529667595 source:d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\src\treasuremanager.cpp
+	<vector>
+	<stdio.h>
+	"TreasureManager.h"
+
+1529721007 source:d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\src\wallblock.cpp
+	"WallBlock.h"
+	<iostream>
+
+1529726856 source:d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\src\player.cpp
+	"CommonClass.h"
+	"Player.h"
+	<iostream>
+	"BulletManager.h"
+	"cmath"
+
+1529723028 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\position.h
+
+1529720180 d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\header\gamesetter.h
+	"CommonClass.h"
+
+1529726952 source:d:\asus\—ßœ∞\funcode\πÈ≥≤…Ëº∆\gonest\sourcecode\src\gamesetter.cpp
+	"GameSetter.h"
+	"LessonX.h"
+
+1529843958 source:c:\users\administrator\desktop\gonest\sourcecode\src\gamesetter.cpp
+	"GameSetter.h"
+	"LessonX.h"
+
+1529828160 c:\users\administrator\desktop\gonest\sourcecode\header\gamesetter.h
+	"CommonClass.h"
+
+1529723028 c:\users\administrator\desktop\gonest\sourcecode\header\position.h
+
+1529726952 source:c:\users\asus\desktop\gonest\sourcecode\src\gamesetter.cpp
+	"GameSetter.h"
+	"LessonX.h"
+
+1529720180 c:\users\asus\desktop\gonest\sourcecode\header\gamesetter.h
+	"CommonClass.h"
+
+1529723028 c:\users\asus\desktop\gonest\sourcecode\header\position.h
+
+1420212242 source:c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\icon.rc
+
+1529592089 source:c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\src\bullet.cpp
+	"Bullet.h"
+	"Player.h"
+
+1529592089 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\bullet.h
+	"CommonClass.h"
+	"Player.h"
+
+1529472775 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\commonclass.h
+	<windows.h>
+	<iostream>
+
+1529736741 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\player.h
+	"CommonClass.h"
+	"PlayerState.h"
+	"TREASURE.H"
+
+1529586782 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\playerstate.h
+
+1529569754 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\treasure.h
+	"CommonClass.h"
+
+1529639119 source:c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\src\bulletmanager.cpp
+	"BulletManager.h"
+	<iterator>
+
+1529559008 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\bulletmanager.h
+	<vector>
+	"Bullet.h"
+
+1529469863 source:c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\src\freezebullet.cpp
+	"FreezeBullet.h"
+
+1529469848 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\freezebullet.h
+
+1529738841 source:c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\src\gamesetter.cpp
+	"GameSetter.h"
+	"LessonX.h"
+
+1529720180 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\gamesetter.h
+	"CommonClass.h"
+
+1529738610 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\lessonx.h
+	"Player.h"
+	<Windows.h>
+	"Treasure.h"
+	"TreasureManager.h"
+	"PlayerManager.h"
+	"Player.h"
+
+1529738044 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\treasuremanager.h
+	<vector>
+	<Treasure.h>
+
+1529736741 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\playermanager.h
+	"Player.h"
+	"MapManager.h"
+
+1529727897 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\mapmanager.h
+	"CommonClass.h"
+	"WallBlock.h"
+	<cstdlib>
+	<ctime>
+	"Position.h"
+
+1529559261 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\wallblock.h
+	"CommonClass.h"
+
+1529723028 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\position.h
+
+1529736819 source:c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\src\main.cpp
+	"CommonClass.h"
+	"LessonX.h"
+	"Player.h"
+
+1529728831 source:c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\src\mapmanager.cpp
+	"MapManager.h"
+	"Position.h"
+	"crowmap.h"
+
+1529722990 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\crowmap.h
+	<cstring>
+	"dungoen.h"
+
+1529411304 c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\header\dungoen.h
+	<string>
+	<cstdlib>
+	<cassert>
+	<vector>
+	<ctime>
+
+1529737475 source:c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\src\player.cpp
+	"CommonClass.h"
+	"Player.h"
+	<iostream>
+	"BulletManager.h"
+	"cmath"
+	"LessonX.h"
+
+1529736741 source:c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\src\playermanager.cpp
+	<iostream>
+	"PlayerManager.h"
+
+1529332178 source:c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\src\treasure.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"Treasure.h"
+
+1529738089 source:c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\src\treasuremanager.cpp
+	<vector>
+	<stdio.h>
+	"TreasureManager.h"
+	<cstdlib>
+	<ctime>
+	"MapManager.h"
+
+1529721007 source:c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\src\wallblock.cpp
+	"WallBlock.h"
+	<iostream>
+
+1529739249 source:c:\users\administrator\desktop\’‘”¿Ω‹\gonest\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"LessonX.h"
+	"PlayerManager.h"
+	"MapManager.h"
+	"BulletManager.h"
+	"GameSetter.h"
+

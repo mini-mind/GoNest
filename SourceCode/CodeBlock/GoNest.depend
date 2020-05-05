@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1420212242 source:c:\users\administrator\desktop\gonest\sourcecode\icon.rc
+
+1529467998 source:c:\users\administrator\desktop\gonest\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"LessonX.h"
+	<iostream>
+
+1461255074 c:\users\administrator\desktop\gonest\sourcecode\header\commonclass.h
+	<windows.h>
+
+1529464376 c:\users\administrator\desktop\gonest\sourcecode\header\lessonx.h
+	<Windows.h>
+	"MapManager.h"
+
+1528251308 source:c:\users\administrator\desktop\gonest\sourcecode\src\main.cpp
+	"CommonClass.h"
+	"LessonX.h"
+	<cstdlib>
+	<ctime>
+
+1529463862 c:\users\administrator\desktop\gonest\sourcecode\header\mapmanager.h
+	"CommonClass.h"
+	"WallBlock.h"
+
+1529468860 source:c:\users\administrator\desktop\gonest\sourcecode\src\mapmanager.cpp
+	"MapManager.h"
+	<cstdlib>
+	"crowmap.h"
+	"WallBlock.h"
+
+1529467947 c:\users\administrator\desktop\gonest\sourcecode\header\crowmap.h
+	<cstring>
+	<iostream>
+	"dungoen.h"
+
+1420212242 source:f:\c++项目\gonest\sourcecode\icon.rc
+
+1529497520 source:f:\c++项目\gonest\sourcecode\src\lessonx.cpp
+	"CommonClass.h"
+	"LessonX.h"
+	"PlayerManager.h"
+
+1529495024 f:\c++项目\gonest\sourcecode\header\commonclass.h
+	<windows.h>
+	<iostream>
+
+1529464378 f:\c++项目\gonest\sourcecode\header\lessonx.h
+	<Windows.h>
+	"MapManager.h"
+
+1529463864 f:\c++项目\gonest\sourcecode\header\mapmanager.h
+	"CommonClass.h"
+	"WallBlock.h"
+
+1528251308 source:f:\c++项目\gonest\sourcecode\src\main.cpp
+	"CommonClass.h"
+	"LessonX.h"
+	<cstdlib>
+	<ctime>
+
+1529468862 source:f:\c++项目\gonest\sourcecode\src\mapmanager.cpp
+	"MapManager.h"
+	<cstdlib>
+	"crowmap.h"
+	"WallBlock.h"
+
+1529467948 f:\c++项目\gonest\sourcecode\header\crowmap.h
+	<cstring>
+	<iostream>
+	"dungoen.h"
+
+1529411304 c:\users\administrator\desktop\gonest\sourcecode\header\dungoen.h
+	<string>
+	<cstdlib>
+	<cassert>
+	<vector>
+	<ctime>
+
+1529411306 f:\c++项目\gonest\sourcecode\header\dungoen.h
+	<string>
+	<cstdlib>
+	<cassert>
+	<vector>
+	<ctime>
+
+1529463966 c:\users\administrator\desktop\gonest\sourcecode\header\wallblock.h
+	"CommonClass.h"
+
+1529468381 source:c:\users\administrator\desktop\gonest\sourcecode\src\wallblock.cpp
+	"WallBlock.h"
+	<iostream>
+
+1529463968 f:\c++项目\gonest\sourcecode\header\wallblock.h
+	"CommonClass.h"
+
+1529468382 source:f:\c++项目\gonest\sourcecode\src\wallblock.cpp
+	"WallBlock.h"
+	<iostream>
+
+1529497446 source:f:\c++项目\gonest\sourcecode\src\player.cpp
+	"Player.h"
+
+1529497456 f:\c++项目\gonest\sourcecode\header\player.h
+	"CommonClass.h"
+
+1529497658 source:f:\c++项目\gonest\sourcecode\src\playermanager.cpp
+	"PlayerManager.h"
+
+1529497658 f:\c++项目\gonest\sourcecode\header\playermanager.h
+	"Player.h"
+
